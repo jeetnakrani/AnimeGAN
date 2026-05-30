@@ -6,9 +6,9 @@ A from-scratch implementation of **Deep Convolutional Generative Adversarial Net
 
 ## 📸 Results
 
-| Training Progress | Final Generated Faces |
-|---|---|
-| ![training gif](gan_outputs/training_progress.gif) | ![final grid](gan_outputs/final_generated_grid.png) |
+| Final Generated Faces |
+|---|
+| https://github.com/jeetnakrani/AnimeGAN/blob/main/download.png |
 
 > Results shown after 100 training epochs on a GPU.
 
