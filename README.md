@@ -135,5 +135,4 @@ export KAGGLE_KEY=your_api_key
 ## 👤 Author
 
 **Jeet**  
-Data Scientist | MTech Data Science & Business Analytics — NMIMS (MPSTME)  
-[LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio.com)
+Data Scientist
